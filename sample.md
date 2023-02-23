@@ -51,8 +51,7 @@ ___
 ```
 Example
 ```
-`<p>This is a paraphraph</p>`
-`<p>Cats are my spirit animal. Awwww</p>`
+`<p>This is a paraghraph</p>`
 
 <!-- Images -->
 ![Markdown Logo](https://play-lh.googleusercontent.com/XVHP0sBKrRJYZq_dB1RalwSmx5TcYYRRfYMFO18jgNAnxHAIA1osxM55XHYTb3LpkV8)
