@@ -51,7 +51,7 @@ ___
 ```
 Example
 ```
-`<p>This is a paraghraph</p>`
+`<p>This is a paragraph</p>`
 
 <!-- Images -->
 ![Markdown Logo](https://play-lh.googleusercontent.com/XVHP0sBKrRJYZq_dB1RalwSmx5TcYYRRfYMFO18jgNAnxHAIA1osxM55XHYTb3LpkV8)
