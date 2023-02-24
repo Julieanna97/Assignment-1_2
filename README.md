@@ -1,4 +1,4 @@
 # Assignment-1_2
-Storage assignment in C++/Python
+Deck assignment in C++/Python
 
 Coded by: Julie Anne Cantillep
